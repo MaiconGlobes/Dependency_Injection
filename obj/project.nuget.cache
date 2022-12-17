@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QF0Iel7b4Mz4pWCIi9WX+V7zJ6VqAr2pS6fTJn0Hx0p2GNdjHs9YyqpERLKnhvMGuKk3kFjWL6fcaNxkJ+mTPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Dependence_Injection\\Dependence_Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
